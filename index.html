@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>zxabinbina</title>
+</head>
+<body>
+    <p>这里什么都没有！如果您是访问 悠哉世界 服务器的官网，请访问 <a href="https://youzaiworld.top">youzaiworld.top</a> ，已经迁移到新网站！</p>
+    <p>页面将在 <span id="timer">10</span> 秒后跳转到新网站。</p>
+    <script>
+        let countdown = 10;
+        const targetUrl = "https://youzaiworld.top";
+        const timerElement = document.getElementById('timer');
+
+        // 4. 使用 setInterval 每秒更新倒计时
+        const intervalId = setInterval(function() {
+            countdown--; // 时间减1
+            timerElement.textContent = countdown; // 更新页面上的数字
+
+            // 5. 当倒计时归零时，执行跳转
+            if (countdown <= 0) {
+                clearInterval(intervalId); // 停止倒计时，避免继续执行
+                window.location.href = targetUrl; // 跳转到新网站
+            }
+        }, 1000); // 1000毫秒 = 1秒
+    </script>
+</body>
+</html>
