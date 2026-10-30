@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- 打字横幅：深浅主题各一版 -->
+<!-- 打字横幅 -->
 <img src="https://readme-typing-svg.demolab.com/?lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20a%E5%BD%AC%E5%BD%ACa%20%F0%9F%91%8B;%E5%9C%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E6%96%B9%E5%9D%97%E4%B9%8B%E9%97%B4%EF%BC%8C%E5%88%9B%E9%80%A0%E4%B8%80%E7%82%B9%E4%B8%8D%E4%B8%80%E6%A0%B7;%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%81%9A%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%9C%E8%A5%BF%EF%BC%8C%E6%8A%8A%E7%83%AD%E7%88%B1%E6%85%A2%E6%85%A2%E5%8F%98%E6%88%90%E7%8E%B0%E5%AE%9E&font=Fira+Code&size=22&duration=4200&pause=1200&color=4EA4EF&center=true&vCenter=true&width=600&height=60&repeat=true#gh-dark-mode-only" alt="在代码与方块之间，创造一点不一样" />
-<img src="https://readme-typing-svg.demolab.com/?lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20a%E5%BD%AC%E5%BD%ACa%20%F0%9F%91%8B;%E5%9C%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E6%96%B9%E5%9D%97%E4%B9%8B%E9%97%B4%EF%BC%8C%E5%88%9B%E9%80%A0%E4%B8%80%E7%82%B9%E4%B8%8D%E4%B8%80%E6%A0%B7;%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%81%9A%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%9C%E8%A5%BF%EF%BC%8C%E6%8A%8A%E7%83%AD%E7%88%B1%E6%85%A2%E6%85%A2%E5%8F%98%E6%88%90%E7%8E%B0%E5%AE%9E&font=Fira+Code&size=22&duration=4200&pause=1200&color=2468B1&center=true&vCenter=true&width=600&height=60&repeat=true#gh-light-mode-only" alt="在代码与方块之间，创造一点不一样" />
 
 <br/>
 
@@ -117,12 +116,10 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=zxaBinbina&show_icons=true&hide_border=true&include_all_commits=true&bg_color=141521&title_color=4EA4EF&text_color=DAE2ED&icon_color=937562&custom_title=GitHub%20%E7%BB%9F%E8%AE%A1#gh-dark-mode-only" alt="GitHub 统计" />
-<img src="https://github-readme-stats.vercel.app/api?username=zxaBinbina&show_icons=true&hide_border=true&include_all_commits=true&bg_color=F4F6FA&title_color=2468B1&text_color=141521&icon_color=937562&custom_title=GitHub%20%E7%BB%9F%E8%AE%A1#gh-light-mode-only" alt="GitHub 统计" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxaBinbina&layout=compact&langs_count=8&hide_border=true&bg_color=141521&title_color=4EA4EF&text_color=DAE2ED&custom_title=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80#gh-dark-mode-only" alt="常用语言" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxaBinbina&layout=compact&langs_count=8&hide_border=true&bg_color=F4F6FA&title_color=2468B1&text_color=141521&custom_title=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80#gh-light-mode-only" alt="常用语言" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxaBinbina&layout=compact&langs_count=8&hide_border=true&bg_color=141521&title_color=4EA4EF&text_color=DAE2ED&custom_title=%E5%B8%B8%E7%94%A8%E8%AF%AD%E8%A8%80" alt="常用语言" />
 
 </div>
 
@@ -130,8 +127,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=zxaBinbina&locale=zh_Hans&hide_border=true&border_radius=8&background=141521&stroke=232636&ring=4EA4EF&fire=937562&currStreakNum=DAE2ED&sideNums=DAE2ED&currStreakLabel=979EAF&sideLabels=979EAF&dates=979EAF#gh-dark-mode-only" alt="连续贡献" />
-<img src="https://streak-stats.demolab.com/?user=zxaBinbina&locale=zh_Hans&hide_border=true&border_radius=8&background=F4F6FA&stroke=D5DCE8&ring=2468B1&fire=937562&currStreakNum=141521&sideNums=141521&currStreakLabel=626B7C&sideLabels=626B7C&dates=626B7C#gh-light-mode-only" alt="连续贡献" />
+<img src="https://streak-stats.demolab.com/?user=zxaBinbina&locale=zh_Hans&hide_border=true&border_radius=8&background=141521&stroke=232636&ring=4EA4EF&fire=937562&currStreakNum=DAE2ED&sideNums=DAE2ED&currStreakLabel=979EAF&sideLabels=979EAF&dates=979EAF" alt="连续贡献" />
 
 </div>
 
@@ -160,7 +156,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1D2B,100:4EA4EF&height=110&section=footer#gh-dark-mode-only" alt="footer" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2468B1,100:937562&height=110&section=footer#gh-light-mode-only" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1D2B,100:4EA4EF&height=110&section=footer" alt="footer" />
 
 </div>
